@@ -1,0 +1,4 @@
+Classes constructor is a magic method
+a) Constructor execute automatically when object is created
+b) Constructor can take parameter
+c) Constructor method can't return any result

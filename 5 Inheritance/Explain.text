@@ -1,0 +1,3 @@
+Inheritance
+a) Keyword "extends" is used to create inherit relationship between class
+b) For inherit relationship child class can use parent class properties
